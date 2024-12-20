@@ -1,0 +1,7 @@
+![Terraform with AWS](https://github.com/user-attachments/assets/a76b1b64-509b-47c0-87cb-36da99a75733)
+![Screenshot (238)](https://github.com/user-attachments/assets/0ac572c8-a115-40f5-b05e-8a9caabb4b5b)
+![Screenshot (239)](https://github.com/user-attachments/assets/aad700ef-54aa-475b-a825-4fc7a44aec3f)
+![Screenshot (240)](https://github.com/user-attachments/assets/f4cafc35-55c1-480b-a78b-ba2984bc6725)
+![Screenshot (241)](https://github.com/user-attachments/assets/fc048374-8981-40d9-9888-91e405fb2cc0)
+![Screenshot (242)](https://github.com/user-attachments/assets/32b1bd17-2bd0-493f-a2ed-44dd6d1ebecb)
+![Screenshot (243)](https://github.com/user-attachments/assets/9e10fc6e-555d-4434-92f5-163865bb9504)
